@@ -1,0 +1,11 @@
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\obj\Debug\netcoreapp2.1\PROBLEMA_4.csprojAssemblyReference.cache
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\obj\Debug\netcoreapp2.1\PROBLEMA_4.csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\obj\Debug\netcoreapp2.1\PROBLEMA_4.AssemblyInfoInputs.cache
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\obj\Debug\netcoreapp2.1\PROBLEMA_4.AssemblyInfo.cs
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\bin\Debug\netcoreapp2.1\PROBLEMA_4.deps.json
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\bin\Debug\netcoreapp2.1\PROBLEMA_4.runtimeconfig.json
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\bin\Debug\netcoreapp2.1\PROBLEMA_4.runtimeconfig.dev.json
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\bin\Debug\netcoreapp2.1\PROBLEMA_4.dll
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\bin\Debug\netcoreapp2.1\PROBLEMA_4.pdb
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\obj\Debug\netcoreapp2.1\PROBLEMA_4.dll
+C:\Users\villa\Desktop\EXAMEN\UNIDAD_5_VILLALOBOS_PEREZ\PROBLEMA_4\obj\Debug\netcoreapp2.1\PROBLEMA_4.pdb
